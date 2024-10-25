@@ -18,7 +18,7 @@ class MessageMail extends Mailable
 
     public function build()
     {
-        return $this->subject('New Message from Star Eclipse Inc. Contact Form')
+        return $this->subject('New Message from Company Website Contact Form')
                     ->view('message');
     }
 }
