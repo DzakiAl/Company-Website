@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>New Message from Star Eclipse Inc. Contact Form!</title>
+    <title>New Message from Company Website Contact Form!</title>
 </head>
 <body>
-    <h1>New Message from Star Eclipse Inc. Contact Form!</h1>
+    <h1>New Message from Company Website Contact Form!</h1>
     <h2>From:</h2>
     <p><strong>Name:</strong> {{ $details['name'] }}</p>
     <p><strong>Email:</strong> {{ $details['email'] }}</p>
@@ -16,4 +16,3 @@
     <p><strong>Details:</strong> {{ $details['details'] }}</p>
 </body>
 </html>
-
