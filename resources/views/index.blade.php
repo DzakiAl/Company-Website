@@ -37,7 +37,7 @@
     </div>
     <div class="about-container" id="section2">
         <div class="about-title-container">
-            <h1 class="about-title">About Star Eclipse Inc.</h1>
+            <h1 class="about-title">About Us</h1>
         </div>
         <div class="about-text-container">
             <p class="about-text">
@@ -130,7 +130,7 @@
     </div>
     <footer class="footer" id="section4">
         <div class="contact">
-            <p class="copyright">&copy; Star Eclipse Inc. 2024</p>
+            <p class="copyright">&copy; Company Name inc. 2024</p>
             <a href="" class="footer-link">Instagram</a>
             <a href="" class="footer-link">X</a>
         </div>
